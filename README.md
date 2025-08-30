@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Helpdesk Projects:</h2>
 
 - <b>Installation of Active Directory Using Powershell</b>
-  - [Active Directory Powershell Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Powershell Installation](https://github.com/said-moh/Active-Directory-Powershell-Installation-/tree/main)
 
 <h2>📃 Certifications
 
