@@ -1,4 +1,4 @@
-<h1>Hi, I'm Said! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/said-mohamed-ba01442a2/">IT Professional, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Said! <br/><a href="https://www.linkedin.com/in/said-mohamed-ba01442a2/">IT Professional</h1>
 
 <h2>👨‍💻 IT Helpdesk Projects:</h2>
 
@@ -7,11 +7,9 @@
 
 <h2>📃 Certifications
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CompTIA A+](https://www.credly.com/badges/ba176cec-4401-4752-83cc-74539dbdab6e/public_url)
+- [Cisco CCST Networking](https://www.credly.com/badges/24910abc-9575-4e80-9477-d2438dd8fb96/public_url)
+- [Cisco CCNA](https://www.credly.com/badges/bff134bb-8209-464b-aa41-9831c1d8c298/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
